@@ -4,7 +4,6 @@ This is a repo, where I will showcase the Api im building for my project.
 
 Here is a SQL create script, that describes the whole database layout:
 
-````SQL
 ```SQL
 -- tables
 -- Table: Device
@@ -569,16 +568,4 @@ CREATE SEQUENCE WorkBase_seq
 ;
 
 -- End of file.
-````
-
-```
-
-```
-
-```
-
-```
-
-```
-
 ```
